@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Webhook ServiceNow",
+  "description": "API.AI Webhook ServiceNow example",
+  "repository": "https://github.com/SarraAMRI-KOUKI/servicenow",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
