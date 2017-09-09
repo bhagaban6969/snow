@@ -3,11 +3,11 @@
 import requests
 
 # Set the request parameters
-url = 'https://dev15333.service-now.com/api/now/table/incident?sysparm_fields=incident_state'
+url = 'https://dev26851.service-now.com/api/now/table/incident?sysparm_fields=incident_state'
 
 # Eg. User name="admin", Password="admin" for this code sample.
 user = 'admin'
-pwd = 'admin'
+pwd = 'Banty@1986'
 
 # Set proper headers
 headers = {"Content-Type":"application/json","Accept":"application/json"}
